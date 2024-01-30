@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1>Will You Be My Valentine?</h1>
-        <p>Dear [Crush's Name],</p>
+        <p>Dear [Kayden Ml],</p>
         <p>I have something important to ask you...</p>
         <button onclick="propose()">Click to find out!</button>
         <div id="proposal" style="display: none;">
