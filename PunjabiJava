@@ -1,0 +1,11 @@
+function propose() {
+    document.getElementById('proposal').style.display = 'block';
+}
+
+function answer(response) {
+    if (response === 'yes') {
+        alert('Yay! Happy Valentine\'s Day! ❤️');
+    } else {
+        alert('Oh no! Maybe next time. 😔');
+    }
+}
